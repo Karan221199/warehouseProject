@@ -1,0 +1,16 @@
+label{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+#is_live{
+    margin-left: 10px;
+    width: 15px;
+    height: 15px;
+}
+
+#isRegistered{
+    margin-left: 10px;
+    width: 15px;
+    height: 15px;
+}
